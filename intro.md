@@ -21,7 +21,8 @@ Delta Lake is a **storage layer** built on top of Apache Spark.
 - ACID transactions for data consistency
 - Schema evolution and enforcement
 - Time travel (query historical versions of data)
-- Optimized reads and writes with indexing and caching
+- Data linege and Audit
+- Unified Batch and streaming workloads
 
 ---
 
@@ -47,7 +48,8 @@ Delta Lake is a **storage layer** built on top of Apache Spark.
 ## 📚 Learn More
 
 Explore the official documentation:  
-👉 Databricks Docs
+👉 Databricks Videos
+👉 [Delta Lake](https://www.youtube.com/watch?v=HQvAl0Bwpu8)
 
 ---
 
