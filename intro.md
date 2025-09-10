@@ -1,6 +1,6 @@
 # 🚀 Introduction to Databricks
 
-**Databricks** is a powerful, cloud-based platform designed for **data engineering**, **machine learning**, and **collaborative analytics**. Built on **Apache Spark**, it enables teams to process large-scale data efficiently and build intelligent applications.
+**Databricks** is a data platform, built on **Apache Spark**; designed for **data engineering**, **machine learning**, and **analytics**.
 
 ---
 
