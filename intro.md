@@ -43,8 +43,10 @@ Delta Lake is a **storage layer** built on top of Apache Spark.
 3. 🔗 Connect to data sources (e.g., Delta Lake, external databases).
 4. 💻 Start coding in **Python**, **SQL**, **Scala**, or **R**.
 
-5. Workspace - logically holds the notebooks
-6. Catalog - logically holds tables and volumes
+   - Workspace - logically holds the notebooks
+   - Catalog - logically holds tables and volumes
+     - catalog.schema.table
+     - catalog.schema.volume
 
 ---
 
