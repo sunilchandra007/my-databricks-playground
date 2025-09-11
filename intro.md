@@ -48,6 +48,11 @@ Delta Lake is a **storage layer** built on top of Apache Spark.
      - catalog.schema.table
      - catalog.schema.volume
 
+
+Free edition provides 
+- Serverless PySpark - all purpose
+- SQL Warehouse
+
 ---
 
 ## 📚 Learn More
