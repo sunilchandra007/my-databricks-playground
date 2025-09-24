@@ -1,6 +1,7 @@
 # 🚀 Introduction to Databricks
 
-**Databricks** is a data platform, built on **Apache Spark**; designed for **data engineering**, **machine learning**, and **analytics**.
+- A data platform, built on **Apache Spark**
+- combines all three - **data engineering**, **data science(analytics)**, and **machine learning** workflows into a single platform.
 
 ---
 
@@ -15,7 +16,7 @@ Apache Spark is an open-source **distributed computing** system designed for big
 - Supports batch and streaming workloads
 
 ## 💾 Delta Lake
-Delta Lake is a **storage layer** built on top of Apache Spark.
+Delta Lake is a **storage layer** built on top of Apache Spark. It is backbone of Databricks’ **Lakehouse** architecture.
 
 **Key Features:**
 - ACID transactions for data consistency
@@ -23,6 +24,12 @@ Delta Lake is a **storage layer** built on top of Apache Spark.
 - Time travel (query historical versions of data)
 - Data linege and Audit
 - Unified Batch and streaming workloads
+
+
+
+## MLflow
+
+An open-source platform for managing the entire machine learning lifecycle. Fom tracking experiments to managing model deployment, it simplifies the process of building and operationalizing ML models.
 
 ---
 
