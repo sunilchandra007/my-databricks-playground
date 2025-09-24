@@ -4,6 +4,7 @@
 - Each metastore exposes a three-level namespace (**catalog.schema.table**|view|volume) by which data can be organized.
 - Only one metastore is allowed in one region
 
+---
 
 - Table governs tablular datasets
 - Volume add governance over non-tabular datsets including structured, semi-structured and unstructured data
