@@ -8,7 +8,7 @@
 
 - Table governs tablular datasets
 - Volume add governance over non-tabular datsets including structured, semi-structured and unstructured data
-- Auto loader - ?  
+- Auto loader - ? streaming ?
 ---  
 ## Reference
 [Unity Catalog Full Course - Youtube](https://www.youtube.com/watch?v=P5pEeR3xQpI)
