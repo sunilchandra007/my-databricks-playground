@@ -1,7 +1,10 @@
 # 🚀 Introduction to Databricks
 
 - A data platform, built on **Apache Spark**
-- combines all three - **data engineering**, **data science(analytics)**, and **machine learning** workflows into a single platform.
+- combines all three into a single platform
+   - **data engineering** - Data ingestion pipeline, job, ETL
+   - **data science** - analytics
+   - **machine learning** - workflows 
 
 ---
 
